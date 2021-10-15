@@ -1,0 +1,30 @@
+_repo: Wonder-Tales-from-Tibet_66443
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Day, Maurice
+    aliases:
+    - Day, Maurice Ellicott
+    - Day, Jake
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '53645'
+    url: http://www.gutenberg.org/2009/agents/53645
+    wikipedia: https://en.wikipedia.org/wiki/Jake_Day
+creator:
+  author:
+    agent_name: Jewett, Eleanore Myers
+    gutenberg_agent_id: '53813'
+    url: http://www.gutenberg.org/2009/agents/53813
+description: ''
+gutenberg_issued: '2021-10-01'
+identifiers:
+  gutenberg: '66443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wonder Tales from Tibet
+url: http://www.gutenberg.org/ebooks/66443
