@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '53645'
     url: http://www.gutenberg.org/2009/agents/53645
     wikipedia: https://en.wikipedia.org/wiki/Jake_Day
+covers:
+- cover_type: archival
+  image_path: 66443-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Jewett, Eleanore Myers
     gutenberg_agent_id: '53813'
     url: http://www.gutenberg.org/2009/agents/53813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66443#Wonder-Tales-from-Tibet
 gutenberg_issued: '2021-10-01'
 identifiers:
   gutenberg: '66443'
